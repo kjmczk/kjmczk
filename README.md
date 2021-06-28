@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Koji Mochizuki, and a web developer specializing in Next.js and TypeScript.
+
+<a href="https://github.com/kjmczk">
+  <img height="224" src="https://github-readme-stats.vercel.app/api?username=kjmczk&show_icons=true&theme=prussian" />
+</a>
+<a href="https://github.com/kjmczk">
+  <img height="224" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjmczk&theme=prussian" />
+</a>
+
 <!--
 **kjmczk/kjmczk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
