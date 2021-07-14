@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Koji Mochizuki, and a web developer specializing in Next.js and TypeScript.
+My name is Koji Mochizuki, and I am a web developer specializing in React/Next.js and TypeScript.
 
 <a href="https://github.com/kjmczk">
   <img height="224" src="https://github-readme-stats.vercel.app/api?username=kjmczk&show_icons=true&theme=prussian" />
